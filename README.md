@@ -9,4 +9,4 @@ Included below are the final report, source code and key results from the projec
 * Findings revealed a minimal direct impact of wildfires on unemployment rates, highlighting the complexity of socioeconomic recovery and the importance of localized analysis for disaster policy planning
 
 ### 
-[Source Code and Key Findings](https://github.com/sierrareschke/Wildfire-Analysis](https://drive.google.com/drive/folders/1wRK6XL-dOrjOXt1FO064eWUK1SHnFAk-)
+- [Source Code and Key Findings](https://drive.google.com/drive/folders/1wRK6XL-dOrjOXt1FO064eWUK1SHnFAk-)
