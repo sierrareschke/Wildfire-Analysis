@@ -10,5 +10,5 @@ Included below are the final report, source code and key results from the projec
 
 ### Final Deliverables
 - [Source Code and Key Findings](https://drive.google.com/drive/folders/1wRK6XL-dOrjOXt1FO064eWUK1SHnFAk-)
-- For a detailed analysis, please refer to the [Final Project Report](data/WildfireUnemploymentFinalReport.pdf).
+- For a detailed analysis, please refer to the [Final Project Report](/WildfireUnemploymentFinalReport.pdf).
 
