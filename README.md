@@ -1,6 +1,6 @@
 ## Data Mining the Impact of Wildfires on Unemployment in the U.S.
 
-Included below are the final report, source code and key results from the project focused on mining the impact of wildfire and socioeconomic data on unemployment rates in the U.S. from 1990-2016.  
+This project investigates the relationship between wildfires and unemployment rates in the U.S. from 1990-2016 using data mining and machine learning techniques.
 
 ### Completed Project Objectives
 * Analyzed the relationship between wildfires and unemployment rates in the U.S. using data mining techniques. 
